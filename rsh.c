@@ -93,7 +93,7 @@ int main() {
 
 		
 	if(cmdAllowed!=1){
-	printf("NOT ALLOWED\n");
+	printf("NOT ALLOWED!\n");
 	//exit(EXIT_FAILURE);
 	continue;
 	}
